@@ -1,7 +1,7 @@
 {
     "prefix": "c-",
     "Prefix": "c-",
-    "mongoPath" : "mongodb+srv://ManthanBarot:Manthan@1742008@cosmic.nynkc16.mongodb.net/?retryWrites=true&w=majority",
+    "mongoPath" : "",
     "token": "",
     "guild_id": "882672630526795876",
     "owner": [
